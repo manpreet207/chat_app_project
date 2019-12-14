@@ -23,7 +23,5 @@ API-http://s28.ca/rest/bowspace/users
 API- http://s28.ca/rest/bowspace/post
 
 
-# Thanks For Giving Your Time :-)
-
 ### Manpreet kaur (393296)
 ### m.kaur296@mybvc.ca
